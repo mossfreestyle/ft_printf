@@ -50,7 +50,7 @@ Une implémentation personnalisée de la fonction `printf` de la bibliothèque s
 
 ```bash
 # Cloner le projet
-git clone https://github.com/votre-username/ft_printf.git
+git clone https://github.com/mossfreestyle/ft_printf.git
 cd ft_printf
 
 # Compiler la bibliothèque
